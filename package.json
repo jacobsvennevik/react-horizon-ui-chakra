@@ -17,7 +17,7 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-    "apexcharts": "^3.35.2",
+    "apexcharts": "^4.0.0",
     "axios": "^0.27.2",
     "axois": "^0.0.1-security",
     "babel-cli": "^6.26.0",
